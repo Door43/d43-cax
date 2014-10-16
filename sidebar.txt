@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cax:home|Door43 (cax)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cax|d43-cax repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cax/archive/master.zip|d43-cax.zip]]
+
+**Recent Changes**
+{{changes>ns = cax}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cax|Ethnologue data]]
+
